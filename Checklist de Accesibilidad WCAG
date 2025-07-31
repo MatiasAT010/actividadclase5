@@ -1,0 +1,10 @@
+Checklist de Accesibilidad WCAG
+Para imágenes, se ha añadido texto alternativo descriptivo a la foto de perfil y a una imagen destacada para garantizar accesibilidad para lectores de pantalla.
+La navegación mediante TAB permite recorrer los elementos interactivos y se han verificado los estados de foco para asegurar visibilidad clara durante el uso del teclado.
+Resumen de cumplimiento WCAG
+| Criterio                         | Pantalla   | Cumple/No cumple | Notas                                                  |
+|-----------------------------------|------------|------------------|--------------------------------------------------------|
+| Contraste texto/fondo             | Inicio     | Cumple           | Todas las combinaciones superan la relación mínima     |
+| Texto alternativo en imágenes     | Perfil     | Cumple           | Fotos principales tienen descripciones apropiadas      |
+| Navegación por teclado y foco     | Ambas      | No cumple        | El estado de foco no es suficientemente evidente, requiere ajustes explícitos en estilos |
+Para el criterio no cumplido, se recomienda mejorar los estilos de foco para asegurar que todos los elementos interactivos sean visualmente notorios al usar el teclado.
